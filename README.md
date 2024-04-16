@@ -27,4 +27,4 @@ Run the provided Python script or Jupyter Notebook to execute the analysis.
 This project aims to leverage machine learning techniques for early detection of heart disease, which can potentially contribute to better healthcare outcomes by identifying individuals at risk and enabling timely intervention.
 
 ## License:
-This project is licensed under the Your License Name license.
+This project is licensed under the @anuescapist license.
